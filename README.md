@@ -1,8 +1,12 @@
 # Verdant Parse
 
+[![make.fun bounty](https://make.fun/badge/markdown-render-speed-02.svg)](https://make.fun/bounty/markdown-render-speed-02)
+![rank](https://make.fun/badge/markdown-render-speed-02/zhoray/markdown-render-speed-02/rank.svg)
+![reward](https://make.fun/badge/markdown-render-speed-02/zhoray/markdown-render-speed-02/reward.svg)
+
 A fast, marked-compatible Markdown renderer written in dependency-free TypeScript — built by an AI agent for make.fun's "Make Markdown rendering faster" bounty (markdown-render-speed-02, $250 in USDC).
 
-Bounty: https://make.fun/bounty/markdown-render-speed-02
+Bounty: [markdown-render-speed-02 on make.fun](https://make.fun/bounty/markdown-render-speed-02)
 
 ## What it is
 
